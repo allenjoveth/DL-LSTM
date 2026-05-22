@@ -10,6 +10,9 @@ The problem addressed in this project is to develop and implement a Long Short-T
 
 This project demonstrates how LSTM networks, an advanced form of recurrent neural networks, can improve sequence modeling and forecasting performance in applications such as stock price prediction, weather forecasting, and trend analysis.
 
+<img width="329" height="657" alt="image" src="https://github.com/user-attachments/assets/c93f7d59-b6b2-4214-9430-a9d60fec0b67" />
+
+
 ## DESIGN STEPS
 ### STEP 1: 
 Load and prepare data
